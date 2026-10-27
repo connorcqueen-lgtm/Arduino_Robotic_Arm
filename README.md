@@ -111,3 +111,6 @@ The demonstration shows the Arduino Uno controlling three servo motors using an 
 - Pressing the joystick button operates the gripper servo.
 
 [Watch the servo control demonstration](Progress_Videos/Three_Servo_Joystick_Test.mp4)
+
+Progress Video 2 – Complete Electronics Integration
+This video demonstrates the completed Arduino robotic arm control system, including three servo motors controlled by a joystick, an HC-SR04 ultrasonic sensor, a two-pin tilt switch, and an LED warning system. Both sensors activate the warning LED without interrupting manual joystick control.
