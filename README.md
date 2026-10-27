@@ -97,3 +97,17 @@ The design uses existing robotic arm STL files. The original design source and a
 Three servos have been successfully tested using joystick controls. The external power supply is working, and the robotic arm components are being 3D printed.
 
 The next stage involves sensor integration and mechanical assembly.
+
+## Progress Videos
+
+### Three-Servo Joystick Control
+
+This video documents the initial testing of the robotic arm's control system.
+
+The demonstration shows the Arduino Uno controlling three servo motors using an analog joystick.
+
+- Horizontal joystick movement controls the base servo.
+- Vertical joystick movement controls the shoulder servo.
+- Pressing the joystick button operates the gripper servo.
+
+[Watch the servo control demonstration](Progress_Videos/Three_Servo_Joystick_Test.mp4)
